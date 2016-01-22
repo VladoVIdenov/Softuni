@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:StringExtensions.StringExtensions">
+            <summary>
+            This class contain extension functions for string objects.
+            </summary>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            String extension method which converts the input string to hash array.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Returns the hexadecimal string.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Converts a string to a Boolean (true) value.
+            </summary>
+            <param name="input">Input string</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToShort(System.String)">
+            <summary>
+            Converts the string representation of a number to its 16-bit signed integer equivalent.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Type: System.Int16</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Converts the specified string representation of a number to an equivalent 32-bit signed integer.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Type: System.Int32</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToLong(System.String)">
+            <summary>
+            Converts the specified string representation of a number to an equivalent 64-bit signed integer.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Type: System.Int64</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Converts the specified string representation of a date and time to an equivalent date and time value.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Type: System.DateTime</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Static method that uppercases the first letter of given string. 
+            </summary>
+            <param name="input">Input string</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            String extension method which returns the substring between two given strings.
+            </summary>
+            <param name="input">Input string</param>
+            <param name="startString">an optional string to search after</param>
+            <param name="endString">an optional string to search before</param>
+            <param name="startFrom">an optional index to start search from </param>
+            <returns>substring based on the search</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            String extension method which converts the cyrillic letters from the input string into their latin representation.    
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Converted string with Latin letters</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            String extension method which converts the latin letters from the input string into their cyrillic representation.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Converted string with cyrillic letters</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            String extension method which replaces invalid symbols in the input 
+            string with an empty string and converts a valid username.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Valid Username</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            String extension method which replaces invalid symbols in the input 
+            string with an empty string and converts a valid filename.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Valid Filename</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            String extension method which returns first N characters of the input string.
+            </summary>
+            <param name="input">Input string</param>
+            <param name="charsCount">the count of characters to be returned</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            String extension method which returns the extention of a given filename represented as a string.
+            </summary>
+            <param name="fileName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToContentType(System.String)">
+            <summary>
+            String extension method which returns the content type of a file determined by its extension.
+            </summary>
+            <param name="fileExtension"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            String extension method which converts the input string to a byte array.
+            </summary>
+            <param name="input">Input string</param>
+            <returns>Returns a byte array of the input string</returns>
+        </member>
+    </members>
+</doc>

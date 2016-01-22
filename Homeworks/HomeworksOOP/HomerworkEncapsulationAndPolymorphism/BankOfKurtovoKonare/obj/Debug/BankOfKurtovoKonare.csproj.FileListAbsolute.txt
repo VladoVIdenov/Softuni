@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Homeworks\HomerworkEncapsulationAndPolymorphism\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Homeworks\HomerworkEncapsulationAndPolymorphism\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Homeworks\HomerworkEncapsulationAndPolymorphism\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Homeworks\HomerworkEncapsulationAndPolymorphism\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Homeworks\HomerworkEncapsulationAndPolymorphism\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Homeworks\HomerworkEncapsulationAndPolymorphism\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.pdb

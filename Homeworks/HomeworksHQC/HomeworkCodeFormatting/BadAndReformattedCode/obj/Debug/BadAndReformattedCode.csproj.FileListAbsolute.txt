@@ -1,0 +1,2 @@
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\BadAndReformattedCode\bin\Debug\BadAndReformattedCode.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\BadAndReformattedCode\obj\Debug\BadAndReformattedCode.csprojResolveAssemblyReference.cache

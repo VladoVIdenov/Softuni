@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkExceptionHandling\Problem02EnterNumbers\bin\Debug\Problem02EnterNumbers.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkExceptionHandling\Problem02EnterNumbers\bin\Debug\Problem02EnterNumbers.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkExceptionHandling\Problem02EnterNumbers\bin\Debug\Problem02EnterNumbers.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkExceptionHandling\Problem02EnterNumbers\obj\Debug\Problem02EnterNumbers.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkExceptionHandling\Problem02EnterNumbers\obj\Debug\Problem02EnterNumbers.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkExceptionHandling\Problem02EnterNumbers\obj\Debug\Problem02EnterNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkCodeDocumentationAndComment\StringExtensions\bin\Debug\StringExtensions.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkCodeDocumentationAndComment\StringExtensions\bin\Debug\StringExtensions.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkCodeDocumentationAndComment\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkCodeDocumentationAndComment\StringExtensions\obj\Debug\StringExtensions.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkCodeDocumentationAndComment\StringExtensions\obj\Debug\StringExtensions.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkCodeDocumentationAndComment\StringExtensions\bin\Debug\StringExtensions.XML

@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Try\PerformanceOperation\Problem02PerformanceOperation\bin\Debug\Problem02PerformanceOperation.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Try\PerformanceOperation\Problem02PerformanceOperation\bin\Debug\Problem02PerformanceOperation.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Try\PerformanceOperation\Problem02PerformanceOperation\bin\Debug\Problem02PerformanceOperation.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Try\PerformanceOperation\Problem02PerformanceOperation\obj\Debug\Problem02PerformanceOperation.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Try\PerformanceOperation\Problem02PerformanceOperation\obj\Debug\Problem02PerformanceOperation.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Try\PerformanceOperation\Problem02PerformanceOperation\obj\Debug\Problem02PerformanceOperation.pdb

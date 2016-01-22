@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkStaticMembersAndNamespaces\Problem01Point3D\bin\Debug\Problem01Point3D.exe.config
+C:\Users\Vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkStaticMembersAndNamespaces\Problem01Point3D\bin\Debug\Problem01Point3D.exe
+C:\Users\Vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkStaticMembersAndNamespaces\Problem01Point3D\bin\Debug\Problem01Point3D.pdb
+C:\Users\Vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkStaticMembersAndNamespaces\Problem01Point3D\obj\Debug\Problem01Point3D.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkStaticMembersAndNamespaces\Problem01Point3D\obj\Debug\Problem01Point3D.exe
+C:\Users\Vladimir\documents\visual studio 2015\Projects\Homeworks\HomeworkStaticMembersAndNamespaces\Problem01Point3D\obj\Debug\Problem01Point3D.pdb

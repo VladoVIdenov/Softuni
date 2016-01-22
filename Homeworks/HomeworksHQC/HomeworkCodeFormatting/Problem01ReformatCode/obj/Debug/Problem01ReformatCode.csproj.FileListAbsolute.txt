@@ -1,0 +1,11 @@
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\bin\Debug\Problem01ReformatCode.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\obj\Debug\Problem01ReformatCode.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\bin\Debug\Problem01ReformatCode.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\bin\Debug\Problem01ReformatCode.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\obj\Debug\Problem01ReformatCode.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomewokCodeFormatting\Problem01ReformatCode\obj\Debug\Problem01ReformatCode.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomeworkCodeFormatting\Problem01ReformatCode\bin\Debug\Problem01ReformatCode.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomeworkCodeFormatting\Problem01ReformatCode\obj\Debug\Problem01ReformatCode.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\Try\HQC\HomeworkCodeFormatting\Problem01ReformatCode\obj\Debug\Problem01ReformatCode.pdb
