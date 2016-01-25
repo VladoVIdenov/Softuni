@@ -1,0 +1,8 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\bin\Debug\SolidLogger.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\bin\Debug\SolidLogger.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\SolidLogger\bin\Debug\SolidLogger.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\SolidLogger\obj\Debug\SolidLogger.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\SolidLogger\obj\Debug\SolidLogger.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\SolidLogger\bin\Debug\SolidLogger.dll.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\SolidLogger\bin\Debug\SolidLogger.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkSolidPrinciples\SolidLogger\obj\Debug\SolidLogger.dll
