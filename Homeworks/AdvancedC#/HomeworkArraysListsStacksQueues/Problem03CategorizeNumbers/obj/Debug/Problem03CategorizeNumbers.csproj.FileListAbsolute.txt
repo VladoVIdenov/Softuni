@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem03CategorizeNumbers\bin\Debug\Problem03CategorizeNumbers.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem03CategorizeNumbers\bin\Debug\Problem03CategorizeNumbers.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem03CategorizeNumbers\bin\Debug\Problem03CategorizeNumbers.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem03CategorizeNumbers\obj\Debug\Problem03CategorizeNumbers.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem03CategorizeNumbers\obj\Debug\Problem03CategorizeNumbers.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem03CategorizeNumbers\obj\Debug\Problem03CategorizeNumbers.pdb

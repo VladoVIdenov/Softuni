@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem04SequencesOfEqualStrings\bin\Debug\Problem04SequencesOfEqualStrings.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem04SequencesOfEqualStrings\bin\Debug\Problem04SequencesOfEqualStrings.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem04SequencesOfEqualStrings\bin\Debug\Problem04SequencesOfEqualStrings.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem04SequencesOfEqualStrings\obj\Debug\Problem04SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem04SequencesOfEqualStrings\obj\Debug\Problem04SequencesOfEqualStrings.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem04SequencesOfEqualStrings\obj\Debug\Problem04SequencesOfEqualStrings.pdb

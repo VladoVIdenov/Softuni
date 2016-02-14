@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem01SortArrayOfNumbers\bin\Debug\Problem01SortArrayOfNumbers.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem01SortArrayOfNumbers\bin\Debug\Problem01SortArrayOfNumbers.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem01SortArrayOfNumbers\bin\Debug\Problem01SortArrayOfNumbers.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem01SortArrayOfNumbers\obj\Debug\Problem01SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem01SortArrayOfNumbers\obj\Debug\Problem01SortArrayOfNumbers.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkArraysListsStacksQueues\Problem01SortArrayOfNumbers\obj\Debug\Problem01SortArrayOfNumbers.pdb

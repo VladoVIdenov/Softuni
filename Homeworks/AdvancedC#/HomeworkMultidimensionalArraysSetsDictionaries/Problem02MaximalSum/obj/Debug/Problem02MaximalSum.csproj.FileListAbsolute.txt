@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\bin\Debug\Problem02MaximalSum.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\bin\Debug\Problem02MaximalSum.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\bin\Debug\Problem02MaximalSum.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.pdb
