@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03MatrixShuffling", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04SequenceInMatrix", "Problem04SequenceInMatrix\Problem04SequenceInMatrix.csproj", "{05E5ADA0-DC5A-4BDD-9020-679938E7FA7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem05CollectTheCoins", "Problem05CollectTheCoins\Problem05CollectTheCoins.csproj", "{85E628F3-76AE-418A-84B8-E288AD4F052A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{05E5ADA0-DC5A-4BDD-9020-679938E7FA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E5ADA0-DC5A-4BDD-9020-679938E7FA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E5ADA0-DC5A-4BDD-9020-679938E7FA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E628F3-76AE-418A-84B8-E288AD4F052A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E628F3-76AE-418A-84B8-E288AD4F052A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E628F3-76AE-418A-84B8-E288AD4F052A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E628F3-76AE-418A-84B8-E288AD4F052A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,6 @@
 ﻿namespace Problem04SequenceInMatrix
 {
     using System;
-    using System.Threading;
 
     public class Program
     {
@@ -33,16 +32,7 @@
                 {
                     if (matrix[row, col].Equals(matrix[row, col + 1]))
                     {
-                        counter++;
-                        if (longestSeq < counter)
-                        {
-                            sequenceString = matrix[row, col];
-                            longestSeq = counter;
-                        }
-                        else
-                        {
-                            counter = 1;
-                        }
+                        counter = SequenceInitializer(counter, matrix, row, col, ref longestSeq, ref sequenceString);
                     }
                 }
 
@@ -56,16 +46,7 @@
                 {
                     if (matrix[row, col].Equals(matrix[row + 1, col]))
                     {
-                        counter++;
-                        if (longestSeq < counter)
-                        {
-                            sequenceString = matrix[row, col];
-                            longestSeq = counter;
-                        }
-                        else
-                        {
-                            counter = 1;
-                        }
+                        counter = SequenceInitializer(counter, matrix, row, col, ref longestSeq, ref sequenceString);
                     }
                 }
 
@@ -79,16 +60,7 @@
                 {
                     if (matrix[row, col].Equals(matrix[row + 1, col + 1]))
                     {
-                        counter++;
-                        if (longestSeq < counter)
-                        {
-                            sequenceString = matrix[row, col];
-                            longestSeq = counter;
-                        }
-                        else
-                        {
-                            counter = 1;
-                        }
+                        counter = SequenceInitializer(counter, matrix, row, col, ref longestSeq, ref sequenceString);
                     }
                 }
 
@@ -101,16 +73,7 @@
                 {
                     if (matrix[row, col].Equals(matrix[row + 1, col - 1]))
                     {
-                        counter++;
-                        if (longestSeq < counter)
-                        {
-                            sequenceString = matrix[row, col];
-                            longestSeq = counter;
-                        }
-                        else
-                        {
-                            counter = 1;
-                        }
+                        counter = SequenceInitializer(counter, matrix, row, col, ref longestSeq, ref sequenceString);
                     }
                 }
 
@@ -118,6 +81,27 @@
             }
             
             Console.WriteLine("longestSeq : {0} str : {1}", longestSeq, sequenceString);
+        }
+
+        private static int SequenceInitializer(
+            int counter,
+            string[,] matrix,
+            int row,
+            int col,
+            ref int longestSeq,
+            ref string sequenceString)
+        {
+            counter++;
+            if (longestSeq < counter)
+            {
+                sequenceString = matrix[row, col];
+                longestSeq = counter;
+            }
+            else
+            {
+                counter = 1;
+            }
+            return counter;
         }
     }
 }
