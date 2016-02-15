@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class Program
+    public class SequenceInMatrix
     {
         public static void Main()
         {
@@ -67,6 +67,7 @@
                 counter = 1;
             }
 
+            // Search in diagonal backwards
             for (int row = 0; row < matrix.GetLength(0) - 1; row++)
             {
                 for (int col = matrix.GetLength(1) - 1; col > 0; col--)

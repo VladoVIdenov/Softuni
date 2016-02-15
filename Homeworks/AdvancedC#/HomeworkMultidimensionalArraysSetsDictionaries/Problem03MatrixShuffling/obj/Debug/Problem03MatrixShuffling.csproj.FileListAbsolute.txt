@@ -4,3 +4,9 @@ c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensional
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\obj\Debug\Problem03MatrixShuffling.csprojResolveAssemblyReference.cache
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\obj\Debug\Problem03MatrixShuffling.exe
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\obj\Debug\Problem03MatrixShuffling.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\bin\Debug\Problem03MatrixShuffling.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\bin\Debug\Problem03MatrixShuffling.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\bin\Debug\Problem03MatrixShuffling.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\obj\Debug\Problem03MatrixShuffling.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\obj\Debug\Problem03MatrixShuffling.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem03MatrixShuffling\obj\Debug\Problem03MatrixShuffling.pdb

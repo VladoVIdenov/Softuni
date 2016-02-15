@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem06CountSymbols\bin\Debug\Problem06CountSymbols.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem06CountSymbols\bin\Debug\Problem06CountSymbols.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem06CountSymbols\bin\Debug\Problem06CountSymbols.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem06CountSymbols\obj\Debug\Problem06CountSymbols.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem06CountSymbols\obj\Debug\Problem06CountSymbols.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem06CountSymbols\obj\Debug\Problem06CountSymbols.csprojResolveAssemblyReference.cache

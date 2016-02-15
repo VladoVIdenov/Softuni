@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem07Phonebook\bin\Debug\Problem07Phonebook.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem07Phonebook\bin\Debug\Problem07Phonebook.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem07Phonebook\bin\Debug\Problem07Phonebook.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem07Phonebook\obj\Debug\Problem07Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem07Phonebook\obj\Debug\Problem07Phonebook.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem07Phonebook\obj\Debug\Problem07Phonebook.pdb

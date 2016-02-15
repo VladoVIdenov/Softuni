@@ -4,3 +4,9 @@ c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensional
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\obj\Debug\Problem01FillTheMatrix.csprojResolveAssemblyReference.cache
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\obj\Debug\Problem01FillTheMatrix.exe
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\obj\Debug\Problem01FillTheMatrix.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\bin\Debug\Problem01FillTheMatrix.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\obj\Debug\Problem01FillTheMatrix.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\obj\Debug\Problem01FillTheMatrix.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\bin\Debug\Problem01FillTheMatrix.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\bin\Debug\Problem01FillTheMatrix.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem01FillTheMatrix\obj\Debug\Problem01FillTheMatrix.csprojResolveAssemblyReference.cache

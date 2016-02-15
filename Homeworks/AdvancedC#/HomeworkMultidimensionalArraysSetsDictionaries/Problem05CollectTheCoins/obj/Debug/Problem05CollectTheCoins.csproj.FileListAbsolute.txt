@@ -1,1 +1,6 @@
 C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem05CollectTheCoins\bin\Debug\Problem05CollectTheCoins.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem05CollectTheCoins\bin\Debug\Problem05CollectTheCoins.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem05CollectTheCoins\bin\Debug\Problem05CollectTheCoins.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem05CollectTheCoins\bin\Debug\Problem05CollectTheCoins.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem05CollectTheCoins\obj\Debug\Problem05CollectTheCoins.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem05CollectTheCoins\obj\Debug\Problem05CollectTheCoins.pdb

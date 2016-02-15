@@ -4,3 +4,9 @@ C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkMultidimensional
 C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\obj\Debug\Problem04SequenceInMatrix.csprojResolveAssemblyReference.cache
 C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\obj\Debug\Problem04SequenceInMatrix.exe
 C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\obj\Debug\Problem04SequenceInMatrix.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\bin\Debug\Problem04SequenceInMatrix.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\obj\Debug\Problem04SequenceInMatrix.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\obj\Debug\Problem04SequenceInMatrix.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\bin\Debug\Problem04SequenceInMatrix.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\bin\Debug\Problem04SequenceInMatrix.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem04SequenceInMatrix\obj\Debug\Problem04SequenceInMatrix.csprojResolveAssemblyReference.cache

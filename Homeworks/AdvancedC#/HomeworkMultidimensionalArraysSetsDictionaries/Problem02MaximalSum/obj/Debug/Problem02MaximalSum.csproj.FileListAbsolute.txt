@@ -4,3 +4,9 @@ c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensional
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.csprojResolveAssemblyReference.cache
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.exe
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\bin\Debug\Problem02MaximalSum.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\bin\Debug\Problem02MaximalSum.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\bin\Debug\Problem02MaximalSum.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMultidimensionalArraysSetsDictionaries\Problem02MaximalSum\obj\Debug\Problem02MaximalSum.pdb
