@@ -1,6 +1,0 @@
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem03LargerThanNeighbours\bin\Debug\Problem03LargerThanNeighbours.exe.config
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem03LargerThanNeighbours\bin\Debug\Problem03LargerThanNeighbours.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem03LargerThanNeighbours\bin\Debug\Problem03LargerThanNeighbours.pdb
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem03LargerThanNeighbours\obj\Debug\Problem03LargerThanNeighbours.csprojResolveAssemblyReference.cache
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem03LargerThanNeighbours\obj\Debug\Problem03LargerThanNeighbours.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem03LargerThanNeighbours\obj\Debug\Problem03LargerThanNeighbours.pdb

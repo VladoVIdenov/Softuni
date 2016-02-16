@@ -1,5 +1,0 @@
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem05ReverseNumber\bin\Debug\Problem05ReverseNumber.exe.config
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem05ReverseNumber\bin\Debug\Problem05ReverseNumber.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem05ReverseNumber\bin\Debug\Problem05ReverseNumber.pdb
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem05ReverseNumber\obj\Debug\Problem05ReverseNumber.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem05ReverseNumber\obj\Debug\Problem05ReverseNumber.pdb

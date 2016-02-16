@@ -1,6 +1,0 @@
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem06NumberCalculations\bin\Debug\Problem06NumberCalculations.exe.config
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem06NumberCalculations\bin\Debug\Problem06NumberCalculations.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem06NumberCalculations\bin\Debug\Problem06NumberCalculations.pdb
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem06NumberCalculations\obj\Debug\Problem06NumberCalculations.csprojResolveAssemblyReference.cache
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem06NumberCalculations\obj\Debug\Problem06NumberCalculations.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem06NumberCalculations\obj\Debug\Problem06NumberCalculations.pdb

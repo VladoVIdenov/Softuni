@@ -1,6 +1,0 @@
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem01BiggerNumber\bin\Debug\Problem01BiggerNumber.exe.config
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem01BiggerNumber\bin\Debug\Problem01BiggerNumber.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem01BiggerNumber\bin\Debug\Problem01BiggerNumber.pdb
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem01BiggerNumber\obj\Debug\Problem01BiggerNumber.csprojResolveAssemblyReference.cache
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem01BiggerNumber\obj\Debug\Problem01BiggerNumber.exe
-c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem01BiggerNumber\obj\Debug\Problem01BiggerNumber.pdb
