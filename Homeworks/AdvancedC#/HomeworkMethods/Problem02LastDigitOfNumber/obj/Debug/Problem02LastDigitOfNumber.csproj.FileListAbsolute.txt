@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem02LastDigitOfNumber\bin\Debug\Problem02LastDigitOfNumber.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem02LastDigitOfNumber\bin\Debug\Problem02LastDigitOfNumber.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem02LastDigitOfNumber\bin\Debug\Problem02LastDigitOfNumber.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem02LastDigitOfNumber\obj\Debug\Problem02LastDigitOfNumber.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem02LastDigitOfNumber\obj\Debug\Problem02LastDigitOfNumber.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem02LastDigitOfNumber\obj\Debug\Problem02LastDigitOfNumber.pdb
