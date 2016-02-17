@@ -4,3 +4,6 @@ c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem0
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem07GenericArraySort\obj\Debug\Problem07GenericArraySort.csprojResolveAssemblyReference.cache
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem07GenericArraySort\obj\Debug\Problem07GenericArraySort.exe
 c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkMethods\Problem07GenericArraySort\obj\Debug\Problem07GenericArraySort.pdb
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMethods\Problem07GenericArraySort\bin\Debug\Problem07GenericArraySort.exe.config
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMethods\Problem07GenericArraySort\obj\Debug\Problem07GenericArraySort.exe
+C:\Users\Vladimir\Desktop\Softuni\Softuni\Homeworks\AdvancedC#\HomeworkMethods\Problem07GenericArraySort\obj\Debug\Problem07GenericArraySort.pdb

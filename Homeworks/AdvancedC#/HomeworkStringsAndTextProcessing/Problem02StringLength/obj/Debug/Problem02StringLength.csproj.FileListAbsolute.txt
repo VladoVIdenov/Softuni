@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkStringsAndTextProcessing\Problem02StringLength\bin\Debug\Problem02StringLength.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkStringsAndTextProcessing\Problem02StringLength\bin\Debug\Problem02StringLength.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkStringsAndTextProcessing\Problem02StringLength\bin\Debug\Problem02StringLength.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkStringsAndTextProcessing\Problem02StringLength\obj\Debug\Problem02StringLength.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkStringsAndTextProcessing\Problem02StringLength\obj\Debug\Problem02StringLength.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkStringsAndTextProcessing\Problem02StringLength\obj\Debug\Problem02StringLength.pdb
