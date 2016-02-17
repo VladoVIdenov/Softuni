@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem04Sentence Extractor\bin\Debug\Problem04Sentence Extractor.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem04Sentence Extractor\bin\Debug\Problem04Sentence Extractor.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem04Sentence Extractor\bin\Debug\Problem04Sentence Extractor.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem04Sentence Extractor\obj\Debug\Problem04Sentence Extractor.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem04Sentence Extractor\obj\Debug\Problem04Sentence Extractor.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem04Sentence Extractor\obj\Debug\Problem04Sentence Extractor.pdb

@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem01SeriesOfLetters\bin\Debug\Problem01SeriesOfLetters.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem01SeriesOfLetters\bin\Debug\Problem01SeriesOfLetters.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem01SeriesOfLetters\bin\Debug\Problem01SeriesOfLetters.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem01SeriesOfLetters\obj\Debug\Problem01SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem01SeriesOfLetters\obj\Debug\Problem01SeriesOfLetters.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem01SeriesOfLetters\obj\Debug\Problem01SeriesOfLetters.pdb

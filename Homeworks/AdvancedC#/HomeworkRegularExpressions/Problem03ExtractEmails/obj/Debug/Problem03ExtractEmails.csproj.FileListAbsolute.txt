@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem03ExtractEmails\bin\Debug\Problem03ExtractEmails.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem03ExtractEmails\bin\Debug\Problem03ExtractEmails.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem03ExtractEmails\bin\Debug\Problem03ExtractEmails.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem03ExtractEmails\obj\Debug\Problem03ExtractEmails.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem03ExtractEmails\obj\Debug\Problem03ExtractEmails.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem03ExtractEmails\obj\Debug\Problem03ExtractEmails.pdb
