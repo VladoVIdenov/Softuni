@@ -1,0 +1,6 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem05ValidUsernames\bin\Debug\Problem05ValidUsernames.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem05ValidUsernames\bin\Debug\Problem05ValidUsernames.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem05ValidUsernames\bin\Debug\Problem05ValidUsernames.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem05ValidUsernames\obj\Debug\Problem05ValidUsernames.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem05ValidUsernames\obj\Debug\Problem05ValidUsernames.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\HomeworkRegularExpressions\Problem05ValidUsernames\obj\Debug\Problem05ValidUsernames.pdb
