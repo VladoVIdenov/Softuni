@@ -1,0 +1,5 @@
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\Problem13LinqToExcel\bin\Debug\Problem13LinqToExcel.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\Problem13LinqToExcel\bin\Debug\Problem13LinqToExcel.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\Problem13LinqToExcel\bin\Debug\Problem13LinqToExcel.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\Problem13LinqToExcel\obj\Debug\Problem13LinqToExcel.exe
+C:\Users\Vladimir\Documents\Visual Studio 2015\Projects\HomeworkFunctionalProgramming\Problem13LinqToExcel\obj\Debug\Problem13LinqToExcel.pdb
